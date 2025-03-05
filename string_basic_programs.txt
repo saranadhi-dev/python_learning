@@ -1,0 +1,90 @@
+===============================BASIC BEGINNER STRING PROGRAM========================================
+1. Palindrome Check  
+   Write a program to check if a string is a palindrome (reads the same backward as forward).
+
+2. Reverse a String  
+   Write a program to reverse a given string.
+
+3. Count Vowels and Consonants  
+   Write a program to count the number of vowels and consonants in a string.
+
+4. Anagram Check  
+   Write a program to check if two strings are anagrams (contain the same characters in a different order).
+
+5. Remove Duplicates from a String  
+   Write a program to remove duplicate characters from a string.
+
+6. Check if String is a Substring  
+   Write a program to check if one string is a substring of another.
+
+7. Count Occurrences of a Character  
+   Write a program to count how many times a particular character appears in a string.
+
+8. String to Uppercase and Lowercase  
+   Write a program to convert a string to uppercase and lowercase.
+
+9. String Concatenation  
+    Write a program to concatenate two strings.
+
+10. Check if a String Contains Only Digits  
+    Write a program to check if a string contains only numeric digits.
+
+11. Check for Balanced Parentheses  
+    Write a program to check if the parentheses in a string are balanced.
+
+12. Find the First Non-Repeated Character  
+    Write a program to find the first non-repeating character in a string.
+
+13. Count Words in a String  
+    Write a program to count the number of words in a string.
+
+14. Count the Number of Spaces in a String  
+    Write a program to count the number of spaces in a string.
+
+15. Remove White Spaces from a String  
+    Write a program to remove all white spaces from a string.
+
+16. Convert String to List of Characters  
+    Write a program to convert a string to a list of characters.
+
+17. String Compression  
+    Write a program to compress a string (for example, "aaabbcc" becomes "a3b2c2").
+
+18. Replace Substring in a String  
+    Write a program to replace all occurrences of a substring in a string.
+
+19. Find the Most Frequent Character in a String  
+    Write a program to find the most frequent character in a string.
+
+20. Sort the Characters in a String Alphabetically  
+    Write a program to sort the characters of a string in alphabetical order.
+
+21. Count the Number of Digits in a String  
+    Write a program to count the number of digits in a string.
+
+22. Merge Two Strings Alternately  
+    Write a program to merge two strings alternately (e.g., "abc", "123" becomes "a1b2c3").
+
+23. Remove All Occurrences of a Character  
+    Write a program to remove all occurrences of a specific character from a string.
+
+
+===============================BASIC BEGINNER STRING REGEX PROGRAM========================================
+
+24. Password Check
+    1 => Special Character
+    1 => Small Letter
+    1 => Capital Letter
+    1 => AlphaNumeric
+    Min 8 Characters
+    Remove IN/OUT spaces
+
+25. Email Validator (@)
+
+26. Phone Number Validator 
+    10-digit 
+    only numeric
+
+27. Time/Date Validator with provided format like MM/dd/YYYY or dd/MM/YYYY
+
+27. Valid a string if it contains Special characters except => . , if any character other than this print it        
